@@ -11,7 +11,7 @@ Vision Tomography (VT) and Tele-Cranio aim to reconstruct both external surfaces
 
 Currently, our methods focus on facial and skull reconstruction. However, we believe these technologies have broad potential in medical imaging, forensic science, and other fields, and deserve further exploration.
 
-We welcome collaborations of all kinds. For inquiries, please contact the core contributors: [Zidu Wang](https://scholar.google.com/citations?user=7zD5f0IAAAAJ&hl=zh-CN&oi=ao) (email: [wangzidu0705@gmail.com](mailto:wangzidu0705@gmail.com)), [Meng Xu](https://openreview.net/profile?id=~Meng_Xu15), [Hengyuan Ma](https://scholar.google.com/citations?user=nrnLH_sAAAAJ&hl=zh-CN), [Tao Song](mailto:songtao@psh.pumc.edu.cn), [Zhen Lei](http://www.cbsr.ia.ac.cn/users/zlei/), [Xiangyu Zhu](https://xiangyuzhu-open.github.io/homepage/).
+We welcome collaborations of all kinds. For inquiries, please contact the core contributors: [Zidu Wang](https://wang-zidu.github.io/) (email: [wangzidu0705@gmail.com](mailto:wangzidu0705@gmail.com)), [Meng Xu](https://openreview.net/profile?id=~Meng_Xu15), [Hengyuan Ma](https://scholar.google.com/citations?user=nrnLH_sAAAAJ&hl=zh-CN), [Tao Song](mailto:songtao@psh.pumc.edu.cn), [Zhen Lei](http://www.cbsr.ia.ac.cn/users/zlei/), [Xiangyu Zhu](https://xiangyuzhu-open.github.io/homepage/).
 
 
 ⚠️ **Disclaimer: This project is intended for research and testing purposes only. It must not be used for medical or clinical applications, and commercial use is strictly prohibited.**
