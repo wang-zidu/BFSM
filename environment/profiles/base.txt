@@ -1,0 +1,5 @@
+numpy==1.26.4
+scipy==1.15.3
+trimesh==4.7.4
+pillow==10.3.0
+PyYAML==6.0.3

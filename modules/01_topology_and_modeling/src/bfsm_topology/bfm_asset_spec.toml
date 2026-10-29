@@ -1,0 +1,74 @@
+"reference_mat_header" = "MATLAB 5.0 MAT-file Platform: posix, Created on: Sun May 19 00:07:16 2024"
+
+["arrays"]
+
+["arrays"."meanshape"]
+"shape" = [1, 107127]
+"dtype" = "float32"
+"sha256" = "0523f8f7c4eca1b9eac7b9bd3192e8c747d7893dfc2798592575a9922d690435"
+
+["arrays"."meantex"]
+"shape" = [1, 107127]
+"dtype" = "float32"
+"sha256" = "31870e2b482537e8fd5202a3cad948c29c6023ee190440dfb40965e4ade04043"
+
+["arrays"."idBase"]
+"shape" = [107127, 80]
+"dtype" = "float32"
+"sha256" = "085f7102a0a02e3726b71e2223d0b1792bb5a296d9e149dab5e0c055300e9b01"
+
+["arrays"."exBase"]
+"shape" = [107127, 64]
+"dtype" = "float64"
+"sha256" = "a270031434eb982af45be563909d876f165b3d7800362e80ded9adc8bcc8ac55"
+
+["arrays"."texBase"]
+"shape" = [107127, 80]
+"dtype" = "float32"
+"sha256" = "d3dd18080010a88e237e82ef78c4be14354fdcef7b4ecda2466fdfa2b8fa10e5"
+
+["arrays"."tri"]
+"shape" = [70789, 3]
+"dtype" = "float32"
+"sha256" = "089109e90e50caa3bdaf5d0460230bd9c3a6068247af44a4631dd3b721aae032"
+
+["arrays"."point_buf"]
+"shape" = [35709, 8]
+"dtype" = "float32"
+"sha256" = "2e3b48cb0637f09c1aff780d824cc77805582cfdf5be8da7e370b71c656015c0"
+
+["arrays"."tri_mask2"]
+"shape" = [54681, 3]
+"dtype" = "float32"
+"sha256" = "6cb3d8e7f8d37305305a4114ea674a6801aace781652b40750317562dbf62030"
+
+["arrays"."keypoints"]
+"shape" = [1, 68]
+"dtype" = "float32"
+"sha256" = "353be3c5e25aef250d947a7546122380935696321267b581e67d3b7729aedf98"
+
+["arrays"."frontmask2_idx"]
+"shape" = [27660, 1]
+"dtype" = "float32"
+"sha256" = "35e2eea922380f5eb9ba3d4776dd01353ae99d1474f5061c32886ca06cb02a99"
+
+["arrays"."skinmask"]
+"shape" = [1, 35709]
+"dtype" = "float32"
+"sha256" = "7ff7514232b04dfd8cdff11054fc77d3987e4f6aec6dac3005eec8885369df59"
+
+["outputs"]
+"BFM/BFM09_model_info.mat" = "13fd32919dabc9ef5aee0864c27b2dd1b5904bb4a551406de8e005c4c40e05cf"
+"BFM/ldm68.npy" = "cf1eafd2a4edc3b9c8cbdbb7513c11bce5ac0fda6f65c9bf03ba3e430b9215e7"
+
+["templates"]
+"muFACE.obj" = "18ac7e9921f2f9596ab48af8b13d78cb559ce1c6ef07bce35c582656674f986e"
+"muSKULL.obj" = "32c502718e25ee054a18a127769d998eb21bb5fd3d683cfd9f575c587ace8c59"
+
+["source_file_hashes"]
+"01_MorphableModel.mat" = "37b1f0742db356a3b1568a8365a06f5b0fe0ab687ac1c3068c803666cbd4d8e2"
+"Exp_Pca.bin" = "e7f31380e6cbdaf2aeec698db220bac4f221946e4d551d88c092d47ec49b1726"
+"facemodel_info.mat" = "529398f76619ae7e22f43c25dd60a2473bcc2bcc8c894fd9c613c68624ce1c04"
+"BFM_front_idx.mat" = "7d285dd018563113496127df9c364800183172adb4d3e802f726085dab66b087"
+"BFM_exp_idx.mat" = "62752a2cab3eea148569fb07e367e03535b4ee04aa71ea1a9aed36486d26c612"
+"std_exp.txt" = "4abc20f1cad2471272637d366b511f1a44c2befeeb1353b7fff392ef72ed1203"

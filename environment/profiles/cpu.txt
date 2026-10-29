@@ -1,0 +1,4 @@
+-r base.txt
+scikit-learn==1.7.2
+matplotlib==3.10.7
+plotly==7.1.0

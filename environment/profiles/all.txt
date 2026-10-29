@@ -1,0 +1,3 @@
+-r cpu.txt
+-r image.txt
+-r registration.txt

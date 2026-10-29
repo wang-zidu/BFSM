@@ -1,0 +1,12 @@
+# Approved illustrative external skull Plan in the reference image's canonical BFSM frame.
+# Plan has cut/closure faces; registration returns the fixed BFSM topology.
+[reference]
+image_sha256 = "7bc9be1d0c24580c7f905ef0df3a687549ca7ac459fcd1a34919efd73ca23b11"
+model_sha256 = "66b7d00a1d3bdbecd1a4d9c230ee06b6b61bc45eabf7928dca98215254255a8f"
+geometry = "../../../data/input/image_clinical/plan_reference.npz"
+atol = 0.0001
+rtol = 0.00001
+
+[edits.dental_reorientation]
+kind = "external_plan"
+plan = "../../../data/input/image_clinical/Plan.obj"

@@ -1,0 +1,19 @@
+description = "Synthetic mandibular software demonstrations; not clinical operation plans or observations."
+strength_unit = "fraction_of_derived_face_height"
+include_no_edit_fitting_control = true
+
+[coordinate_axes]
+x = "lateral"
+y = "superior"
+z = "anterior"
+
+[edits]
+
+[edits.advance]
+strength = 0.06
+
+[edits.retract]
+strength = 0.06
+
+[edits.narrow]
+strength = 0.05

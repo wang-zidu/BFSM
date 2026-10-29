@@ -1,0 +1,15 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "bfsm-core"
+version = "0.1.0"
+requires-python = ">=3.12"
+description = "Shared BFSM numerical and geometry utilities"
+
+[tool.setuptools.packages.find]
+where = ["common/src"]
+
+[tool.setuptools.package-data]
+"*" = ["*.cu", "*.cpp", "*.h", "*.pyx", "*.toml", "*.npz", "*.txt"]

@@ -1,0 +1,5 @@
+# setup.py also builds pinned PyTorch3D.
+-r torch.txt
+fvcore==0.1.5.post20221221
+iopath==0.1.10
+ninja==1.13.0

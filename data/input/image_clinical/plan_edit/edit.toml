@@ -1,0 +1,36 @@
+# Explicit rigid transformations in canonical BFSM model coordinates.
+
+[[pieces]]
+name = "fixed"
+mesh = "pieces/fixed.obj"
+axis = [0.0, 0.0, 1.0]
+pivot = [0, 0, 0]
+angle_degrees = 0.0
+translation = [0, 0, 0]
+
+[[pieces]]
+name = "upper"
+mesh = "pieces/upper.obj"
+axis = [0.0, 0.0, 1.0]
+pivot = [0.010131253125, -0.5539029125, 0.3833842785]
+angle_degrees = -6.573145473109343
+translation = [-0.00846372885607462, 0.0, 0.0]
+
+[[pieces]]
+name = "lower"
+mesh = "pieces/lower.obj"
+axis = [0.0, 0.0, 1.0]
+pivot = [0.039415578, -0.624985624, 0.342099916]
+angle_degrees = -8.184726977687816
+translation = [-0.03217694901768402, 0.0, 0.0]
+
+[[pieces]]
+name = "chin"
+mesh = "pieces/chin.obj"
+axis = [0.0, 0.0, 1.0]
+pivot = [-0.0298804119, -1.04840357, 0.0861582061]
+angle_degrees = 0.0
+translation = [0.0298804119, 0, 0]
+
+[bridge]
+faces = "chin_bridge.npz"

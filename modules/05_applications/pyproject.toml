@@ -1,0 +1,18 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "bfsm-applications"
+version = "0.1.0"
+requires-python = ">=3.12"
+dependencies = ["bfsm-core==0.1.0"]
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.setuptools.package-data]
+"*" = ["*.toml", "*.npz", "*.txt", "**/*.toml"]
+
+[tool.bfsm]
+requires-modules = []
