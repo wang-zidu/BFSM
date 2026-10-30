@@ -87,7 +87,7 @@ BFSM is provided under the [BFSM Research License](LICENSE) for noncommercial re
 ## Citation
 
 - [BFSM: 3D Bidirectional Face-Skull Morphable Model](https://arxiv.org/abs/2509.24577) — arXiv preprint.
-- Vision Tomography: Towards Portable 3D Bidirectional Face-Skull Inference from Visual Data — submitted to IEEE Transactions on Image Processing (TIP); under review.
+- [Vision Tomography: Towards Portable 3D Bidirectional Face-Skull Inference from Visual Data](https://arxiv.org/abs/2610.38065) — submitted to IEEE Transactions on Image Processing (TIP); under review.
 - [Tele-Cranio: A CT-free AI Solution for Remote Diagnosis and Planning of Craniomaxillofacial Deformities](https://www.researchsquare.com/article/rs-10262203/v1) — accepted by npj Digital Medicine (Nature Portfolio).
 
 If you use our work in your research, please cite:
@@ -103,9 +103,14 @@ If you use our work in your research, please cite:
   url={https://arxiv.org/abs/2509.24577}
 }
 
-@misc{wang_vision_tomography,
-  title={Vision Tomography: Towards Portable 3D Bidirectional Face-Skull Inference from Visual Data},
-  author={Zidu Wang and Meng Xu and Miao Xu and Hengyuan Ma and Jiankuo Zhao and Xutao Li and Zhen Lei and Xiangyu Zhu}
+@misc{wang2026visiontomographyportable3d,
+      title={Vision Tomography: Towards Portable 3D Bidirectional Face-Skull Inference from Visual Data}, 
+      author={Zidu Wang and Meng Xu and Miao Xu and Hengyuan Ma and Jiankuo Zhao and Xutao Li and Zhen Lei and Xiangyu Zhu},
+      year={2026},
+      eprint={2610.38065},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2610.38065}, 
 }
 
 @misc{xu2026telecranio,
